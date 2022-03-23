@@ -1,0 +1,50 @@
+[
+  {
+    "type": "notFound",
+    "platform": "android",
+    "contracts": [
+      "11111000000000000000"
+    ],
+    "desc": "sin movimientos en cualquier mes"
+  },
+  {
+    "type": "notFound",
+    "platform": "ios",
+    "contracts": [
+      "111110000000000000002"
+    ],
+    "desc": "sin movimientos en cualquier mes"
+  },
+  {
+    "type": "serverError",
+    "platform": "android",
+    "contracts": [
+      "49488394"
+    ],
+    "desc": "retorna servicio no disponible"
+  },
+  {
+    "type": "serverError",
+    "platform": "ios",
+    "contracts": [
+      "494883942"
+    ],
+    "desc": "retorna servicio no disponible"
+  },
+  {
+    "type": "variableMovementsPerMonth",
+    "platform": "android",
+    "contracts": [
+      "777011849521"
+    ],
+    "desc": "retorna movimientos random excepto en enero donde retorna sin movimientos"
+  },
+  {
+    "type": "variableMovementsPerMonth",
+    "platform": "ios",
+    "contracts": [
+      "7770118495212"
+    ],
+    "desc": "retorna movimientos random excepto en enero donde retorna sin movimientos"
+  }
+]

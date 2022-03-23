@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "regression-test-add-address",
+    "region": "Región Metropolitana",
+    "borough": "El Bosque",
+    "street": "Calle 8 Norte",
+    "number": "310",
+    "floor": "L.24 Costado Unimarc",
+    "additionalInfo": "",
+    "isValid": true
+  },
+  {
+    "ID": "regression-test-physical-card-edge-original",
+    "region": "Metro",
+    "borough": "Santiago",
+    "street": "calle larga",
+    "number": "33",
+    "floor": "depto 44",
+    "additionalInfo": "cerca de los bomberos",
+    "isValid": true
+  },
+  {
+    "ID": "regression-test-physical-card-edge-changed",
+    "region": "Coqui",
+    "borough": "Illapel",
+    "street": "calle corta",
+    "number": "77",
+    "floor": "depto 888",
+    "additionalInfo": "cerca del colegio",
+    "isValid": true
+  },
+  {
+    "ID": "regression-test-card-physical-request",
+    "region": "Coqui",
+    "borough": "Illapel",
+    "street": "Avenida Las Americas",
+    "number": "938",
+    "floor": "Depto 15",
+    "additionalInfo": "Dejar en recepcion",
+    "isValid": true
+  },
+  {
+    "ID": "default-create-account",
+    "region": "Región Metropolitana",
+    "borough": "Buin",
+    "street": "calle",
+    "number": "222",
+    "floor": "101",
+    "additionalInfo": "",
+    "isValid": true
+  },
+  {
+    "ID": "regression-test-card-physical-request-no-number",
+    "region": "Antofagasta",
+    "borough": "Antofagasta",
+    "street": "Los Cerezos",
+    "number": "",
+    "floor": "",
+    "additionalInfo": "",
+    "isValid": true
+  },
+  {
+    "ID": "regression-test-card-physical-request-duplicate-number",
+    "region": "Metro",
+    "borough": "Recoleta",
+    "street": "Calle Einstein 465",
+    "number": "465",
+    "floor": "",
+    "additionalInfo": "",
+    "isValid": true
+  },
+  {
+    "ID": "regression-test-card-physical-request-no-floor-number",
+    "region": "Metro",
+    "borough": "Recoleta",
+    "street": "Calle Einstein",
+    "number": "465",
+    "floor": "",
+    "additionalInfo": "",
+    "isValid": true
+  }
+]

@@ -1,0 +1,1965 @@
+[
+  {
+    "creationTime": "",
+    "amount": "2001",
+    "receivers": [],
+    "type": "cashout",
+    "message": "Pago enviado",
+    "bank": "BANCO PARIS",
+    "accountNumber": "1234",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1999",
+    "receivers": [],
+    "type": "cashout",
+    "message": "Pago enviado",
+    "bank": "BANCO PARIS",
+    "accountNumber": "1234",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "999999",
+    "receivers": [],
+    "type": "cashout",
+    "message": "Pago enviado",
+    "bank": "BANCO PARIS",
+    "accountNumber": "1234",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "2001",
+    "receivers": [],
+    "type": "cashout",
+    "message": "Pago enviado",
+    "bank": "BANCO PARIS",
+    "accountNumber": "1",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "220",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Ariel",
+        "lastName": "Gómez",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "Mensaje de prueba - Cobro enviado",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "220",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Ivan",
+        "lastName": "Olivares",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "Mensaje de prueba - Cobro enviado",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "0",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Ivan",
+        "lastName": "Olivares",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "Nuevo mensaje para cobro",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "222",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Ivan",
+        "lastName": "Olivares",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "Mensaje de prueba - Cobro enviado",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "222",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Ivan",
+        "lastName": "Olivares",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "222",
+    "receivers": [
+      {
+        "accountRUT": "179424711",
+        "accountSerialNumber": "110975239",
+        "name": "Sebastian",
+        "lastName": "Vera",
+        "cellNumber": "963927192",
+        "email": "s@v.com"
+      }
+    ],
+    "type": "",
+    "message": "Recibiste un cobro por",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "lastInteractionTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Ivan",
+        "lastName": "Olivares",
+        "cellNumber": "",
+        "email": "s@v.com"
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "typeOperation": "Recibiste un cobro por",
+    "message": "Miguel Zilli cobrando a Ivan Olivares",
+    "bank": "",
+    "reaction": "No recuerdo esto"
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Miguel",
+        "lastName": "Zilli",
+        "cellNumber": "",
+        "email": "m@z.com"
+      }
+    ],
+    "type": "Recibiste un cobro por",
+    "message": "Miguel Zilli cobrando a Ivan Olivares",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "10",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Equipo",
+        "lastName": "MACH",
+        "cellNumber": "",
+        "email": "m@z.com"
+      }
+    ],
+    "type": "Recibiste un cobro por",
+    "message": "Cobrando a Equipo Mach",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "10",
+    "receivers": [
+      {
+        "accountRUT": "191719778",
+        "accountSerialNumber": "107193371",
+        "name": "Joab",
+        "lastName": "Medina",
+        "zoneCode": "9",
+        "cellNumber": "53786206",
+        "email": "jm@mail.com"
+      }
+    ],
+    "type": "",
+    "message": "Mensaje de prueba - Pago enviado a Joab Medina",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "654",
+    "receivers": [
+      {
+        "accountRUT": "191719778",
+        "accountSerialNumber": "107193371",
+        "name": "Joab",
+        "lastName": "Medina",
+        "zoneCode": "9",
+        "cellNumber": "53786206",
+        "email": "jm@mail.com"
+      }
+    ],
+    "type": "",
+    "message": "Mensaje de prueba - Pago enviado desde historial a Joab Medina",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "0",
+    "receivers": [
+      {
+        "accountRUT": "279434536",
+        "accountSerialNumber": "A023907888",
+        "name": "Dan",
+        "lastName": "Auerbach",
+        "zoneCode": "9",
+        "cellNumber": "63777371",
+        "email": "dan@auerbach.com"
+      }
+    ],
+    "type": "",
+    "message": "Monto Invalido",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "0",
+    "receivers": [
+      {
+        "accountRUT": "279434536",
+        "accountSerialNumber": "A023907888",
+        "name": "Dan",
+        "lastName": "Auerbach",
+        "zoneCode": "9",
+        "cellNumber": "63777371",
+        "email": "dan@auerbach.com"
+      }
+    ],
+    "type": "",
+    "message": "Nuevo mensaje para cobro",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "220",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Camilo",
+        "lastName": "Valderrama",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000hastaaqui151",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "25000",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Tarjeta de Credito",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "250001",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Valor mayor al maximo por recarga",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "200000",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Recarga Tarjeta de Credito",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "100000",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Recarga Tarjeta de Credito",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "75000",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Recarga Tarjeta de Credito",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "100000",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Recarga Tarjeta de Credito",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Miguel",
+        "lastName": "Zilli",
+        "cellNumber": "",
+        "email": "m@z.com"
+      }
+    ],
+    "type": "Enviaste un pago",
+    "message": "Ivan Olivares pagando a Miguel Zilli",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Adrian",
+        "lastName": "Ruiz",
+        "cellNumber": "",
+        "email": "a@r.com"
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "Busqueda por apellido",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "279434536",
+        "accountSerialNumber": "A023907888",
+        "name": "Dan",
+        "lastName": "Auerbach",
+        "zoneCode": "9",
+        "cellNumber": "63777371",
+        "email": "dan@auerbach.com"
+      }
+    ],
+    "type": "",
+    "message": "Pago",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Feneira",
+        "lastName": "Garcia",
+        "cellNumber": "",
+        "email": "m@z.com"
+      }
+    ],
+    "type": "",
+    "message": "Busqueda sin resultado",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "10",
+    "receivers": [
+      {
+        "accountRUT": "170387295",
+        "accountSerialNumber": "A027122969",
+        "name": "Camilo",
+        "lastName": "Valderrama",
+        "zoneCode": "9",
+        "cellNumber": "53123869",
+        "email": "cv@com.com"
+      }
+    ],
+    "type": "Recibiste un cobro por",
+    "message": "Cobrando a Camilo Valderrama",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "555",
+    "receivers": [],
+    "type": "Obtener Tarjeta Prepago Mach",
+    "message": "",
+    "bank": "SCOTIABANK",
+    "accountNumber": "999988887777",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "285",
+    "receivers": [],
+    "type": "Tarjeta Prepago Mach - Mensaje Monto Errado",
+    "message": "",
+    "bank": "SCOTIABANK",
+    "accountNumber": "999988887777",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "199",
+    "receivers": [],
+    "type": "Tarjeta Prepago Mach - Monto Errado",
+    "message": "",
+    "bank": "SCOTIABANK",
+    "accountNumber": "999988887777",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "100",
+    "receivers": [],
+    "type": "Tarjeta Prepago Mach - Monto Errado",
+    "message": "",
+    "bank": "SCOTIABANK",
+    "accountNumber": "999988887777",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "555",
+    "receivers": [],
+    "type": "",
+    "message": "Obtener Tarjeta de Credito Mach Android",
+    "bank": "BBVA",
+    "accountNumber": "999988887777",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [
+      {
+        "accountRUT": "279434536",
+        "accountSerialNumber": "A023907888",
+        "name": "Dan",
+        "lastName": "Auerbach",
+        "zoneCode": "9",
+        "cellNumber": "63777371",
+        "email": "dan@auerbach.com"
+      }
+    ],
+    "type": "",
+    "message": "Editar comentario Android",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "220",
+    "receivers": [
+      {
+        "accountRUT": "279434536",
+        "accountSerialNumber": "A023907888",
+        "name": "Dan",
+        "lastName": "Auerbach",
+        "zoneCode": "9",
+        "cellNumber": "63777371",
+        "email": "dan@auerbach.com"
+      }
+    ],
+    "type": "",
+    "message": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000hastaaqui151",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "499999",
+    "receivers": [
+      {
+        "accountRUT": "279434536",
+        "accountSerialNumber": "A023907888",
+        "name": "Dan",
+        "lastName": "Auerbach",
+        "zoneCode": "9",
+        "cellNumber": "63777371",
+        "email": "dan@auerbach.com"
+      }
+    ],
+    "type": "Monto Excede Saldo Android",
+    "message": "Nuevo mensaje para pago",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "12501",
+    "receivers": [
+      {
+        "accountRUT": "111111111",
+        "accountSerialNumber": "",
+        "name": "",
+        "lastName": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Cash-In",
+    "message": "Tarjeta de Credito Android",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1999",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out Min Amount",
+    "bank": "SCOTIABANK",
+    "accountNumber": "999988887777",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "2001",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out TEF Failed",
+    "bank": "SCOTIABANK",
+    "accountNumber": "1122334455",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "2001",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out Time out",
+    "bank": "SCOTIABANK",
+    "accountNumber": "3344556677",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "2001",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out TEF",
+    "bank": "BANCO CONSORCIO",
+    "accountNumber": "123456789",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "499000",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out TEF Insufficient Balance",
+    "bank": "BANCO FALABELLA",
+    "accountNumber": "8516423568998",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1999",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out Minimun Amount",
+    "bank": "BANCO ESTADO",
+    "accountNumber": "9999666677778888",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "4568",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out Letters Field In Amount",
+    "bank": "BANCO ESTADO",
+    "accountNumber": "ABCDEF987654321",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "64502",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out Special Characters Field In Amount",
+    "bank": "BANCO ESTADO",
+    "accountNumber": "*/-+987654",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [],
+    "type": "Incorrect amount upgrade Mach Android",
+    "message": "",
+    "bank": "BBVA",
+    "accountNumber": "999988887777",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "980",
+    "receivers": [],
+    "type": "Incorrect amount upgrade Mach Android",
+    "message": "",
+    "bank": "BBVA",
+    "accountNumber": "999988887777",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "2345",
+    "receivers": [],
+    "type": "New Cash-Out",
+    "message": "",
+    "bank": "BANCO ITAU",
+    "accountNumber": "987654321",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "5000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Five Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "10000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Ten Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "20000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Twenty Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "40000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Forty Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "60000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Sixty Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "80000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Eighty Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "100000",
+    "receivers": [],
+    "type": "Cash-Out Amounts",
+    "message": "Hundred Thousand Amount",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "777",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "NotRegistered",
+        "lastName": "NonUser",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "non-user of MACH",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "555",
+    "receivers": [],
+    "type": "Cuenta errada obtener Tarjeta de Credito Mach Android",
+    "message": "",
+    "bank": "BBVA",
+    "accountNumber": "3344556677",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "254",
+    "sender": {
+      "accountRUT": "702262178",
+      "accountSerialNumber": "A023907888",
+      "name": "Matt",
+      "lastName": "Helders",
+      "zoneCode": "9",
+      "cellNumber": "30081890",
+      "email": "matt@helders.com"
+    },
+    "receivers": [
+      {
+        "accountRUT": "503809575",
+        "accountSerialNumber": "A023907888",
+        "name": "Nick",
+        "lastName": "Omalley",
+        "zoneCode": "9",
+        "cellNumber": "85053225",
+        "email": "nick@omalley.com"
+      }
+    ],
+    "type": "",
+    "message": "Mensaje transacción - realizar un cobro",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "765",
+    "sender": {
+      "accountRUT": "158337169",
+      "accountSerialNumber": "A023907888",
+      "name": "Jon",
+      "lastName": "Frusciante",
+      "zoneCode": "9",
+      "cellNumber": "51854142",
+      "email": "jon@frusciante.com"
+    },
+    "receivers": [
+      {
+        "accountRUT": "772752156",
+        "accountSerialNumber": "A023907888",
+        "name": "Carlos",
+        "lastName": "Arias",
+        "zoneCode": "9",
+        "cellNumber": "82210489",
+        "email": "c.arias@hotmail.com"
+      }
+    ],
+    "type": "Recibiste un cobro por",
+    "typeOperation": "",
+    "message": "Mensaje transacción - recodar un cobro",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "897",
+    "sender": {
+      "accountRUT" : "605168531",
+      "accountSerialNumber" : "A023907888",
+      "name" : "MarcelaCPR",
+      "lastName" : "Medrano",
+      "zoneCode" : "9",
+      "cellNumber" : "25929555",
+      "email" : "m.medrano@icloud.com"
+    },
+    "receivers": [
+      {
+        "accountRUT" : "573491432",
+        "accountSerialNumber" : "A023907888",
+        "name" : "Brandon",
+        "lastName" : "Flowers",
+        "zoneCode" : "9",
+        "cellNumber" : "97704471",
+        "email" : "brandon@flowers.com"
+      }
+    ],
+    "type": "Recibiste un pago por",
+    "typeOperation": "",
+    "message": "Cobrando, pagando cobro y reaccionando al pago iOS",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "sender" : {
+      "accountRUT" : "823134363",
+      "accountSerialNumber" : "A023907888",
+      "name" : "Jamie",
+      "lastName" : "Cook",
+      "zoneCode" : "9",
+      "cellNumber" : "88313489",
+      "email" : "jamie@cook.com"
+    },
+    "receivers": [
+      {
+        "accountRUT" : "503809575",
+        "accountSerialNumber" : "A023907888",
+        "name" : "Nick",
+        "lastName" : "Omalley",
+        "zoneCode" : "9",
+        "cellNumber" : "85053225",
+        "email" : "nick@omalley.com"
+      }
+    ],
+    "type": "",
+    "message": "Cobrando y rechazando cobro",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "sender" : {
+      "accountRUT" : "207453730",
+      "accountSerialNumber" : "A023907888",
+      "name" : "CarmenRC",
+      "lastName" : "Franco",
+      "zoneCode" : "9",
+      "cellNumber" : "85084862",
+      "email" : "c.franco@inbox.com"
+    },
+    "receivers": [
+      {
+        "accountRUT" : "425512781",
+        "accountSerialNumber" : "A023907888",
+        "name" : "AlfredoRC",
+        "lastName" : "Salgado",
+        "zoneCode" : "9",
+        "cellNumber" : "18559799",
+        "email" : "a.salgado@hotmail.com"
+      }    ],
+    "type": "",
+    "message": "Cobrando y rechazando cobro iOS",
+    "bank": "",
+    "reaction": "No recuerdo esto",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "22",
+    "receivers": [],
+    "type": "",
+    "message": "Cobrando y recordando cobro",
+    "bank": "",
+    "reaction": "Necesito las lucas",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "10",
+    "sender": {
+      "accountRUT" : "59557351",
+      "accountSerialNumber" : "A023907888",
+      "name" : "Lady",
+      "lastName" : "Gaga",
+      "zoneCode" : "9",
+      "cellNumber" : "17861553",
+      "email" : "lg@mail.com"
+    },
+    "receivers": [
+      {
+        "accountRUT": "193018750",
+        "accountSerialNumber": "A023907888",
+        "name": "Ritchie",
+        "lastName": "Valens",
+        "zoneCode": "9",
+        "cellNumber": "12349900",
+        "email": "ritchie@valens.com"
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "message": "Cobrando y recordando cobro - android",
+    "bank": "",
+    "reaction": "Necesito las lucas",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "3",
+    "receivers": [
+      {
+        "accountRUT": "15970723",
+        "accountSerialNumber": "A023907888",
+        "name": "Pedro",
+        "lastName": "Infante",
+        "zoneCode": "9",
+        "cellNumber": "12349901",
+        "email": "pedro@infante.com"
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "message": "Cobrando y recordando cobro - ios",
+    "bank": "",
+    "reaction": "Necesito las lucas",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Matt",
+        "lastName": "Helders",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      },
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Mark",
+        "lastName": "Stoermer",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Cobrando a N Android",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Matt",
+        "lastName": "Helders",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      },
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Mark",
+        "lastName": "Stoermer",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "",
+    "message": "Cobrando a N iOS",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "90",
+    "sender": {
+      "accountRUT" : "110009283",
+      "accountSerialNumber" : "A023907888",
+      "name" : "Chad",
+      "lastName" : "Smith",
+      "zoneCode" : "9",
+      "cellNumber" : "40378465",
+      "email" : "chad@smith.com"
+    },
+    "receivers": [{
+      "accountRUT" : "379319718",
+      "accountSerialNumber" : "A023907888",
+      "name" : "Flea",
+      "lastName" : "Balzary",
+      "zoneCode" : "9",
+      "cellNumber" : "27890015",
+      "email" : "flea@balzary.com"
+    }],
+    "type": "Pagando y reaccionando a pago",
+    "message": "Pagando y reaccionando a pago",
+    "bank": "",
+    "reaction": "Recibido, ¡Gracias!",
+    "lastInteractionTime": ""
+  },
+  {
+  "creationTime": "",
+  "amount": "91",
+  "sender": {
+    "accountRUT" : "59557351",
+    "accountSerialNumber" : "A023907888",
+    "name" : "Lady",
+    "lastName" : "Gaga",
+    "zoneCode" : "9",
+    "cellNumber" : "17861553",
+    "email" : "lg@mail.com"
+  },
+  "receivers": [{
+    "accountRUT" : "245822731",
+    "accountSerialNumber" : "A023907888",
+    "name" : "Adela",
+    "lastName" : "Aguilar",
+    "zoneCode" : "9",
+    "cellNumber" : "83940842",
+    "email" : "a.aguilar@globant.com"
+  }],
+  "type": "r-react-to-payment-ios",
+  "message": "r-react-to-payment-ios",
+  "bank": "",
+  "reaction": "Recibido, ¡Gracias!",
+  "lastInteractionTime": ""
+},
+  {
+    "creationTime": "",
+    "amount": "92",
+    "receivers": [],
+    "type": "",
+    "message": "Cobrando y pagando y reaccionando al pago",
+    "bank": "",
+    "reaction": "¡Dinero $$$!",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "777",
+    "sender": {
+      "accountRUT": "412763963",
+      "accountSerialNumber": "A023907888",
+      "name": "Adrian",
+      "lastName": "Ruiz",
+      "zoneCode": "9",
+      "cellNumber": "35614171",
+      "email": "a.ruiz@icloud.com"
+    },
+    "receivers": [
+      {
+        "accountRUT": "145752116",
+        "accountSerialNumber": "A023907888",
+        "name": "Paul",
+        "lastName": "McCartney",
+        "zoneCode": "9",
+        "cellNumber": "46438758",
+        "email": "paul@mccartney.com"
+      }
+    ],
+    "type": "Recibiste un cobro por",
+    "typeOperation": "",
+    "message": "Mensaje transacción - Descartar un Cobro",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "150",
+    "sender": {
+      "accountRUT": "",
+      "accountSerialNumber": "",
+      "name": "Marcelo",
+      "lastName": "Camelo",
+      "zoneCode": "",
+      "cellNumber": "",
+      "email": ""
+    },
+    "receivers": [
+      {
+        "accountRUT": "818321821",
+        "accountSerialNumber": "A023907888",
+        "name": "Bruno",
+        "lastName": "Medina",
+        "zoneCode": "9",
+        "cellNumber": "92127323",
+        "email": "bruno@medina.com"
+      }
+    ],
+    "type": "",
+    "message": "Cobrando y descartando cobro",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "80000",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out ATM Redgiro",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "80000",
+    "receivers": [],
+    "type": "",
+    "message": "Cash-Out ATM Redgiro",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "356",
+    "receivers": [
+      {
+        "accountRUT": "131859333",
+        "accountSerialNumber": "A023907888",
+        "name": "Ronnie",
+        "lastName": "Vannucci",
+        "zoneCode": "9",
+        "cellNumber": "71456181",
+        "email": "ronnie@vannucci.com"
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "typeOperation": "",
+    "message": "Mensaje transacción - Bloquear PIN desde pago",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "989",
+    "receivers": [
+      {
+        "accountRUT": "131859333",
+        "accountSerialNumber": "A023907888",
+        "name": "Ronnie",
+        "lastName": "Vannucci",
+        "zoneCode": "9",
+        "cellNumber": "71456181",
+        "email": "ronnie@vannucci.com"
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "typeOperation": "",
+    "message": "Mensaje transacción - Bloquear PIN desde cobro",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "16:55",
+    "amount": "10",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Alex",
+        "lastName": "Turner",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "typeOperation": "",
+    "message": "SmokeTestRecovery",
+    "bank": "",
+    "accountNumber": "",
+    "reaction": "",
+    "lastInteractionTime": "16:55"
+  },
+  {
+    "creationTime": "",
+    "amount": "27",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Flea",
+        "lastName": "",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[Android] Smoke pay to one contact"
+  },
+  {
+    "creationTime": "",
+    "amount": "90",
+    "type": "Enviaste un pago por",
+    "message": "[Android] Smoke pay from chat to one contact"
+  },
+  {
+    "creationTime": "",
+    "amount": "27",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Flea",
+        "lastName": "",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[iOS] Smoke pay to one contact"
+  },
+  {
+    "creationTime": "",
+    "amount": "90",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Jon",
+        "lastName": "Frusciante",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[iOS] Smoke pay from chat to one contact"
+  },
+  {
+    "creationTime": "",
+    "amount": "88",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Matt",
+        "lastName": "Helders",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "message": "[iOS] Smoke charge contact"
+  },
+  {
+    "creationTime": "",
+    "amount": "129",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Matt",
+        "lastName": "Helders",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "message": "[iOS] Smoke charge contact from chat"
+  },
+  {
+    "creationTime": "",
+    "amount": "88",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Matt",
+        "lastName": "Helders",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un cobro por",
+    "message": "[Android] Smoke charge contact"
+  },
+  {
+    "creationTime": "",
+    "amount": "129",
+    "type": "Enviaste un cobro por",
+    "message": "[Android] Smoke charge contact from chat"
+  },
+  {
+    "creationTime": "",
+    "amount": "1000",
+    "receivers": [
+      {
+        "name": "Marcelo",
+        "lastName": "Camelo",
+        "cellNumber": "41948562"
+      }
+    ],
+    "sender": {
+      "accountRUT": "65600935",
+      "accountSerialNumber": "A023907888",
+      "name": "Simon",
+      "lastName": "Konecki",
+      "zoneCode": "9",
+      "cellNumber": "13956180",
+      "email": "simon@konecki.com"
+    },
+    "type": "Bloqueo de PIN",
+    "message": "Bloqueo de PIN",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1000",
+    "receivers": [
+      {
+        "name": "Marcelo",
+        "lastName": "Camelo",
+        "cellNumber": "41948562"
+      }
+    ],
+    "sender": {
+      "accountRUT": "247623388",
+      "accountSerialNumber": "A023907888",
+      "name": "Luisa",
+      "lastName": "Vazquez",
+      "zoneCode": "9",
+      "cellNumber": "95398768",
+      "email": "l.vazquez@outlook.com"
+    },
+    "type": "Bloqueo de PIN - pagando",
+    "message": "Bloqueo de PIN - pagando",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1000",
+    "receivers": [
+      {
+        "name": "Marcelo",
+        "lastName": "Camelo"
+      },
+      {
+        "name": "Alex",
+        "lastName": "Turner"
+      }
+    ],
+    "type": "Bloqueo de PIN Charge N",
+    "message": "Bloqueo de PIN Charge N",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1000",
+    "receivers": [
+      {
+        "name": "Marcelo",
+        "lastName": "Camelo",
+        "cellNumber": "41948562"
+      }
+    ],
+    "sender": {
+      "accountRUT": "163953056",
+      "accountSerialNumber": "A023907888",
+      "name": "Rogelio",
+      "lastName": "Galindo",
+      "zoneCode": "9",
+      "cellNumber": "62974554",
+      "email": "r.galindo@inbox.com"
+    },
+    "type": "Bloqueo de PIN - iOS",
+    "message": "Bloqueo de PIN - iOS",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "1000",
+    "receivers": [
+      {
+        "name": "Marcelo",
+        "lastName": "Camelo",
+        "cellNumber": "41948562"
+      }
+    ],
+    "sender": {
+      "accountRUT": "445739111",
+      "accountSerialNumber": "A023907888",
+      "name": "Celestina",
+      "lastName": "Valenzuela",
+      "zoneCode": "9",
+      "cellNumber": "58256247",
+      "email": "c.valenzuela@mail.com"
+    },
+    "type": "Bloqueo de PIN iOS - pagando",
+    "message": "Bloqueo de PIN iOS - pagando",
+    "bank": "",
+    "reaction": "",
+    "lastInteractionTime": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "700",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Chad",
+        "lastName": "",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[iOS] Home-Notification-group to one specific contact 1"
+  },
+  {
+    "creationTime": "",
+    "amount": "500",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Chad",
+        "lastName": "",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[iOS] Home-Notification-group to one specific contact 2"
+  },
+  {
+    "creationTime": "",
+    "amount": "700",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Chad",
+        "lastName": "",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[Android] Home-Notification-group to one specific contact 1"
+  },
+  {
+    "creationTime": "",
+    "amount": "500",
+    "receivers": [
+      {
+        "accountRUT": "",
+        "accountSerialNumber": "",
+        "name": "Chad",
+        "lastName": "",
+        "zoneCode": "",
+        "cellNumber": "",
+        "email": ""
+      }
+    ],
+    "type": "Enviaste un pago por",
+    "message": "[Android] Home-Notification-group to one specific contact 2"
+  },
+  {
+    "creationTime": "17:54",
+    "amount": "500",
+    "sender": {
+      "accountRUT": "",
+      "accountSerialNumber": "",
+      "name": "ChatRecoverySenderAn",
+      "lastName": "",
+      "zoneCode": "9",
+      "cellNumber": "85858585",
+      "email": ""
+    },
+    "type": "Te pagaron",
+    "message": "ChatRecovery"
+  },
+  {
+    "creationTime": "18:03",
+    "amount": "500",
+    "sender": {
+      "accountRUT": "",
+      "accountSerialNumber": "",
+      "name": "ChatRecoverySenderIO",
+      "lastName": "",
+      "zoneCode": "9",
+      "cellNumber": "85858585",
+      "email": ""
+    },
+    "type": "Te pagaron",
+    "message": "ChatRecoveryIOS"
+  },
+  {
+    "creationTime": "",
+    "amount": "0",
+    "sender": {
+      "accountRUT": "684823329",
+      "accountSerialNumber": "A023907888",
+      "name": "QR",
+      "lastName": "Generico",
+      "zoneCode": "9",
+      "cellNumber": "68686868",
+      "email": "yu@t.com"
+    },
+    "type": "QR Generico",
+    "message": "",
+    "qrCodeNumber": "723124629"
+  },
+  {
+    "creationTime": "",
+    "amount": "666",
+    "sender": {
+      "accountRUT": "357893879",
+      "accountSerialNumber": "A023907888",
+      "name": "QR",
+      "lastName": "Personalizado",
+      "zoneCode": "9",
+      "cellNumber": "35353535",
+      "email": "qr@qr.com"
+    },
+    "type": "QR personalizado servicio no disponible",
+    "message": "Monto Especificado",
+    "qrCodeNumber": "161087549"
+  },
+  {
+    "creationTime": "",
+    "amount": "777",
+    "sender": {
+      "accountRUT": "699291854",
+      "accountSerialNumber": "A023907888",
+      "name": "QR",
+      "lastName": "Personalizado",
+      "zoneCode": "9",
+      "cellNumber": "69929185",
+      "email": "qr@personalizado.com"
+    },
+    "type": "QR personalizado solo con monto",
+    "message": null,
+    "qrCodeNumber": "328894712"
+  },
+  {
+    "creationTime": "",
+    "amount": "2.550",
+    "sender": {
+      "accountRUT": "79772372",
+      "accountSerialNumber": "A023907888",
+      "name": "Santiago",
+      "lastName": "Santillan",
+      "zoneCode": "9",
+      "cellNumber": "88315029",
+      "email": "qr@personalizadook.com"
+    },
+    "type": "QR personalizado",
+    "message": "Nuevo QR personalizado",
+    "qrCodeNumber": "939524439"
+  },
+  {
+    "creationTime": "",
+    "amount": "0",
+    "type": "QR incomplete",
+    "message": "",
+    "qrCodeNumber": "1234567"
+  },
+  {
+    "creationTime": "",
+    "amount": "0",
+    "type": "QR incorrect",
+    "message": "",
+    "qrCodeNumber": "123456789"
+  },
+  {
+    "creationTime": "",
+    "amount": "64000",
+    "receivers": [
+      {
+        "accountRUT": "141207008",
+        "accountSerialNumber": "105659797",
+        "name": "Alexandra",
+        "lastName": "Medina",
+        "cellNumber": "85650564",
+        "email": "alexandra@yopmail.com"
+      }
+    ],
+    "type": "",
+    "message": "PMM Charge 1 contact - android",
+    "bank": "",
+    "reaction": "la plata que me debes"
+  },
+  {
+    "creationTime": "",
+    "amount": "12537",
+    "receivers": [
+      {
+        "accountRUT": "141207008",
+        "accountSerialNumber": "105659797",
+        "name": "Alexandra",
+        "lastName": "Medina",
+        "cellNumber": "85650564",
+        "email": "alexandra@yopmail.com"
+      }
+    ],
+    "type": "",
+    "message": "PMM pay 1 contact - android",
+    "bank": "",
+    "reaction": "la plata que te debia"
+  },
+  {
+    "creationTime": "",
+    "amount": "27000",
+    "receivers": [
+      {
+        "name": "Alex",
+        "lastName": "Turner"
+      },
+      {
+        "name": "Anthony",
+        "lastName": "Kiedis"
+      },
+      {
+        "name": "Ariel",
+        "lastName": "Gómez"
+      }
+    ],
+    "type": "",
+    "message": "PMM charge N contacts - android",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "27000",
+    "receivers": [
+      {
+        "name": "Alex",
+        "lastName": "Turner"
+      },
+      {
+        "name": "Anthony",
+        "lastName": "Kiedies"
+      },
+      {
+        "name": "Alexandra",
+        "lastName": "Medina"
+      }
+    ],
+    "type": "",
+    "message": "PMM charge N contacts - ios",
+    "bank": "",
+    "reaction": ""
+  },
+  {
+    "creationTime": "",
+    "amount": "12537",
+    "receivers": [
+      {
+        "accountRUT": "212831441",
+        "accountSerialNumber": "200475394",
+        "name": "Ariel",
+        "lastName": "Gómez",
+        "cellNumber": "91336903",
+        "email": "a@g.com"
+      }
+    ],
+    "type": "",
+    "message": "PMM pay 1 contact no balance - android",
+    "bank": "",
+    "reaction": "la plata que te debia"
+  },
+  {
+    "creationTime": "",
+    "amount": "1352",
+    "receivers": [
+      {
+        "accountRUT": "420403925",
+        "accountSerialNumber": "A023907888",
+        "name": "Marcos",
+        "lastName": "Meza",
+        "zoneCode": "9",
+        "cellNumber": "15156967",
+        "email": "m.meza@apple.com"
+      }
+    ],
+    "type": "QR con monto y motivo",
+    "message": "Este comentario tiene 25c",
+    "qrCodeNumber": "462473567"
+  },
+  {
+    "creationTime": "",
+    "amount": "888",
+    "receivers": [
+      {
+        "accountRUT": "141207008",
+        "accountSerialNumber": "105659797",
+        "name": "Alexandra",
+        "lastName": "Medina",
+        "cellNumber": "85650564",
+        "email": "alexandra@yopmail.com"
+      }
+    ],
+    "type": "",
+    "message": "PMM Pay 1 contact - android - insufficient balance",
+    "bank": "",
+    "reaction": "la plata que te debia"
+  },
+  {
+    "creationTime": "",
+    "amount": "555",
+    "receivers": [
+      {
+        "accountRUT": "141207008",
+        "accountSerialNumber": "105659797",
+        "name": "Alexandra",
+        "lastName": "Medina",
+        "cellNumber": "85650564",
+        "email": "alexandra@yopmail.com"
+      }
+    ],
+    "type": "",
+    "message": "PMM Pay 1 contact - android - no service error",
+    "bank": "",
+    "reaction": "no service mock payment"
+  },
+  {
+    "creationTime": "",
+    "amount": "",
+    "sender": {
+      "accountRUT": "848239844",
+      "accountSerialNumber": "A023907888",
+      "name": "Angela",
+      "lastName": "Islas",
+      "zoneCode": "9",
+      "cellNumber": "29380596",
+      "email": ""
+    },
+    "type": "Pago de cuentas Android",
+    "message": "Pago de cuenta"
+  },{
+    "creationTime": "",
+    "amount": "",
+    "sender": {
+      "accountRUT": "848239844",
+      "accountSerialNumber": "A023907888",
+      "name": "Angela",
+      "lastName": "Islas",
+      "zoneCode": "9",
+      "cellNumber": "29380596",
+      "email": ""
+    },
+    "type": "Pago de cuentas iOS",
+    "message": "Pago de cuenta"
+  },
+  {
+    "creationTime": "",
+    "amount": "10",
+    "sender":{
+      "accountRUT" : "158337169",
+      "accountSerialNumber" : "A023907888",
+      "name" : "Jon",
+      "lastName" : "Frusciante",
+      "zoneCode" : "9",
+      "cellNumber" : "51854142",
+      "email" : "jon@frusciante.com"
+    },
+    "receivers": [
+      {
+        "accountRUT" : "110009283",
+        "accountSerialNumber" : "A023907888",
+        "name" : "Chad",
+        "lastName" : "Smith",
+        "zoneCode" : "9",
+        "cellNumber" : "40378465",
+        "email" : "chad@smith.com"
+      }    ],
+    "type": "Enviaste un cobro por",
+    "message": "Cobrando, pagando cobro y reaccionando al pago Android",
+    "bank": "",
+    "reaction": "Necesito las lucas",
+    "lastInteractionTime": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Paso 1",
+    "description": "Selecciona un monto a retirar para crear tu código de retiro. Puedes realizar 4 retiros por semana.",
+    "type" : "Cash-Out"
+  },
+  {
+    "title": "Paso 2",
+    "description": "Ingresa a la sección MACH dentro del cajero Bci",
+    "type" : "Cash-Out"
+  },
+  {
+    "title": "Paso 3",
+    "description": "Presiona en la opción de Redgiro",
+    "type" : "Cash-Out"
+  },
+  {
+    "title": "Paso 4",
+    "description": "Ingresa el identificador de giro de 12 dígitos",
+    "type" : "Cash-Out"
+  },
+  {
+    "title": "Paso 5",
+    "description": "Ingresa la clave de Redgiro de 5 dígitos para confirmar el retiro",
+    "type" : "Cash-Out"
+  },
+  {
+    "title": "Paso 1",
+    "description": "Ingresa a la app o página web de tu banco",
+    "type" : "Cash-In TEF"
+  },
+  {
+    "title": "Paso 2",
+    "description": "Copia los datos de tu cuenta MACH e ingresalos para hacer una transferencia",
+    "type" : "Cash-In TEF"
+  },
+  {
+    "title": "Paso 3",
+    "description": "Elige el monto y confirma la transferencia",
+    "type": "Cash-In TEF"
+  },
+  {
+    "title": "Paso 4",
+    "description": "Tu dinero aparecerá en tu cuenta MACH",
+    "type" : "Cash-In TEF"
+  }
+]

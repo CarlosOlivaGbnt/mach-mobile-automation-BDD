@@ -1,0 +1,23 @@
+[
+  {
+    "franchise" : "Visa",
+    "numberCard" : "4051885600446623",
+    "verificationCode" : "123",
+    "month" : "",
+    "year" : ""
+  },
+  {
+    "franchise" : "Visa",
+    "numberCard" : "5186059559590568",
+    "verificationCode" : "123",
+    "month" : "",
+    "year" : ""
+  },
+  {
+    "franchise" : "MasterCard",
+    "numberCard" : "5186059559591234",
+    "verificationCode" : "123",
+    "month" : "",
+    "year" : ""
+  }
+]

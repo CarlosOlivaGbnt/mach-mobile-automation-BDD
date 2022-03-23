@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Device Farm container suite" parallel="false">
+
+    <test name="Create account suite" parallel="false">
+        <classes>
+            <class name="com.mach.runners.CreateAccountRunner"/>
+        </classes>
+    </test>
+
+</suite>
